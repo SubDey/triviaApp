@@ -5,6 +5,6 @@
 {"id": 3, "question": " Liberace was a notorious womanizer. ", "answer": false},
 {"id": 4, "question": " Due to a calendar mix-up, there were two years in a row identified as \"1973\".", "answer": false},
 {"id": 5, "question": " Intelligent people have more zinc and copper in their hair", "answer": true},
- {"id":  6, "question": " The Spanish word esposa means \"wife.\" The plural, esposas, means \"wives,\" but also \"handcuffs.\"", "answer": true },
+ {"id":  6, "question": " The Spanish word esposa means \"wife.\" The plural, esposas, means \"wives,\" but also \"handcuffs.\"", "answer": true }
 ]
 }
