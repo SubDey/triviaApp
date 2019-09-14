@@ -42,7 +42,7 @@
   ["Sylvia Miles had the shortest performance ever nominated for an Oscar with \"Midnight Cowboy.\" Her entire role lasted only six minutes.", true],
   ["So far, Congress has authorized $152,600,000,000 for the Iraq war. This is enough to build over 17,500 elementary schools.", true],
   ["The wobble in the rotation of the earth is causing a shift in its magnetic field. By the year 2327, the magnetic North Pole will be located in mid-Kansas, while the South Pole will be just off the coast of East Africa. ", false],
-  ["The Boeing 747 is capable of flying upside-down, except the wings would shear off when trying to roll it over. ", false]]
+  ["The Boeing 747 is capable of flying upside-down, except the wings would shear off when trying to roll it over. ", false]],
   "profile": {
     "name": "TriviApp"
   }
