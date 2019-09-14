@@ -1,6 +1,6 @@
 {
   "questions": [
-["id": 1, "question": "Horoscopes accurately predict future events 85% of the time.", "answer": false],
+[ "question": "Horoscopes accurately predict future events 85% of the time.", "answer": false],
  {"id": 2, "question": " The National Weather Service will pay $30 for the rights to any original photograph of lightning.", "answer": false},
 {"id": 3, "question": " Liberace was a notorious womanizer. ", "answer": false},
 {"id": 4, "question": " Due to a calendar mix-up, there were two years in a row identified as \"1973\".", "answer": false},
